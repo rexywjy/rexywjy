@@ -1,1 +1,1 @@
-![Static Badge](https://img.shields.io/badge/language-python-green?logo=python&labelColor=f7f7f7)
+![Static Badge](https://img.shields.io/badge/language-python-green?logo=python&logoColor=green)
