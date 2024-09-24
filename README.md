@@ -2,6 +2,7 @@
 Fullstack and Software Developer
 <br>
 <br>
+<a href="https://visitcount.itsvg.in/api?id=rexywjy&icon=0&color=0">
 
 <div class="frameworks d-flex flex-wrap justify-content-start">
 <img src="https://img.shields.io/badge/language-django-green?logo=django&logoColor=green">
