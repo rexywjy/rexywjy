@@ -1,8 +1,4 @@
-<style>
-  .d-flex{
-    display:flex;
-  }
-</style>
+
 <h1>Rexy Wijaya Singo Putro</h1>
 Fullstack and Software Developer
 <br>
