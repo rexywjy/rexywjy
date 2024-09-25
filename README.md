@@ -8,8 +8,8 @@
 <div class="languages d-flex flex-wrap justify-content-start">
 <img src="https://img.shields.io/badge/language-python-green?logo=python&logoColor=green">
 <img src="https://img.shields.io/badge/language-php-cc14cc?logo=php&logoColor=cc14cc">
-<img src="https://img.shields.io/badge/language-kotlin-cc14cc?logo=kotlin&logoColor=cc14cc">
-<img src="https://img.shields.io/badge/language-swift-cc14cc?logo=swift&logoColor=cc14cc">
+<img src="https://img.shields.io/badge/language-kotlin-8f3dee?logo=kotlin&logoColor=8f3dee">
+<img src="https://img.shields.io/badge/language-swift-f3632e?logo=swift&logoColor=f3632e">
 </div>
 
 <br>
