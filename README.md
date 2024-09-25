@@ -28,6 +28,7 @@
 <br>
 <div class="tools d-flex flex-wrap justify-content-start">
 <img src="https://img.shields.io/badge/tools-Git-red?logo=git&logoColor=red">
+<img src="https://img.shields.io/badge/tools-Github-black?logo=github&logoColor=black">
 <img src="https://img.shields.io/badge/tools-Postman-orange?logo=postman&logoColor=orange">
 </div>
 
