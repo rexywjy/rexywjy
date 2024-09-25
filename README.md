@@ -46,7 +46,7 @@
 <br>
 <hr>
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexywjy&theme=vue-dark&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexywjy&theme=blueberry&hide_border=true">
 </div>
 <div class="profile d-flex flex-wrap justify-content-start">
 <img src="https://visitcount.itsvg.in/api?id=rexywjy&icon=0&color=0">
