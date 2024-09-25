@@ -1,7 +1,7 @@
 <h1>Rexy Wijaya Singo Putro</h1>
-<small>Fullstack and Software Developer</small>
+<small>💻Fullstack and Software Developer</small>
 <br>
-<small>Petra Christian University</small>
+<small>🏢Petra Christian University</small>
 <br>
 <br>
 
