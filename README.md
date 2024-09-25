@@ -43,7 +43,10 @@
 <img src="https://img.shields.io/badge/tools-Photoshop-blue?logo=adobephotoshop&logoColor=blue">
 </div>
 <br>
-<br>
+<hr>
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexywjy&theme=vue-dark&hide_border=true">
+</div>
 <div class="profile d-flex flex-wrap justify-content-start">
 <img src="https://visitcount.itsvg.in/api?id=rexywjy&icon=0&color=0">
 </div>
