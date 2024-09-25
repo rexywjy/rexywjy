@@ -22,14 +22,14 @@
 <br>
 <div class="databases d-flex flex-wrap justify-content-start">
 <img src="https://img.shields.io/badge/database-PostgreSQL-2e506b?logo=postgresql&logoColor=2e506b">
-<img src="https://img.shields.io/badge/database-MySQLi-orange?logo=mysql&logoColor=orange">
+<img src="https://img.shields.io/badge/database-MySQLi-orange?logo=mysql&logoColor=026188">
 </div>
 
 <br>
 <div class="tools d-flex flex-wrap justify-content-start">
 <img src="https://img.shields.io/badge/tools-Git-red?logo=git&logoColor=red">
-<img src="https://img.shields.io/badge/tools-Github-black?logo=github&logoColor=black">
-<img src="https://img.shields.io/badge/tools-Postman-orange?logo=postman&logoColor=orange">
+<img src="https://img.shields.io/badge/tools-Github-151b23?logo=github&logoColor=151b23">
+<img src="https://img.shields.io/badge/tools-Postman-e05320?logo=postman&logoColor=e05320">
 </div>
 
 <br>
