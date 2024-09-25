@@ -23,7 +23,13 @@ Fullstack and Software Developer
 </div>
 
 <br>
-<div class="databases d-flex flex-wrap justify-content-start">
+<div class="tools d-flex flex-wrap justify-content-start">
+<img src="https://img.shields.io/badge/tools-Git-red?logo=git&logoColor=red">
+<img src="https://img.shields.io/badge/tools-Postman-orange?logo=postman&logoColor=orange">
+</div>
+
+<br>
+<div class="profile d-flex flex-wrap justify-content-start">
 <img src="https://visitcount.itsvg.in/api?id=rexywjy&icon=0&color=0">
 </div>
 
