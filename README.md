@@ -1,9 +1,4 @@
 <h1>Rexy Wijaya Singo Putro</h1>
-
-<div class="profile d-flex flex-wrap justify-content-start">
-<img src="https://visitcount.itsvg.in/api?id=rexywjy&icon=0&color=0">
-</div>
-
 <small>💻Fullstack and Software Developer</small>
 <br>
 <small>🏢Petra Christian University</small>
@@ -49,3 +44,7 @@
 </div>
 <br>
 <br>
+<div class="profile d-flex flex-wrap justify-content-start">
+<img src="https://visitcount.itsvg.in/api?id=rexywjy&icon=0&color=0">
+</div>
+
