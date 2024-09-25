@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/language-Python-green?logo=python&logoColor=green">
 <img src="https://img.shields.io/badge/language-PHP-cc14cc?logo=php&logoColor=cc14cc">
 <img src="https://img.shields.io/badge/language-Javascript-yellow?logo=javascript&logoColor=yellow">
+<img src="https://img.shields.io/badge/language-Dart-blue?logo=dart&logoColor=blue">
 <img src="https://img.shields.io/badge/language-Kotlin-8f3dee?logo=kotlin&logoColor=8f3dee">
 <img src="https://img.shields.io/badge/language-Swift-f3632e?logo=swift&logoColor=f3632e">
 <img src="https://img.shields.io/badge/language-C++-6295cb?logo=cplusplus&logoColor=6295cb">
