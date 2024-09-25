@@ -18,7 +18,7 @@ Fullstack and Software Developer
 
 <br>
 <div class="databases d-flex flex-wrap justify-content-start">
-<img src="https://img.shields.io/badge/database-PostgreSQL-76f2ff?logo=postgresql&logoColor=76f2ff">
+<img src="https://img.shields.io/badge/database-PostgreSQL-2e506b?logo=postgresql&logoColor=2e506b">
 <img src="https://img.shields.io/badge/database-MySQLi-orange?logo=mysql&logoColor=orange">
 </div>
 
