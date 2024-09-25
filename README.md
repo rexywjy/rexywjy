@@ -36,7 +36,7 @@
 <div class="bidang d-flex flex-wrap justify-content-start">
 <img src="https://img.shields.io/badge/tools-Logo-cccccc?logo=adobecreativecloud&logoColor=cccccc">
 <img src="https://img.shields.io/badge/tools-Carricatures-cccccc?logo=adobecreativecloud&logoColor=cccccc">
-<img src="https://img.shields.io/badge/tools-Comic-cccccc?logo=adobecreativecloud&logoColor=cccccc">
+<img src="https://img.shields.io/badge/tools-Comic-cccccc?logo=penpot&logoColor=yellow">
 </div>
 <br>
 <div class="tools d-flex flex-wrap justify-content-start">
